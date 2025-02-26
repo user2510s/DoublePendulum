@@ -1,0 +1,12 @@
+{
+    "g": 9.8,        // Aceleração da gravidade (m/s²)
+    "L1": 2,         // Comprimento da primeira haste do pêndulo (metros)
+    "L2": 2,         // Comprimento da segunda haste do pêndulo (metros)
+    "M1": 1,         // Massa da primeira esfera (kg)
+    "M2": 2,         // Massa da segunda esfera (kg)
+    "dt": 0.05,      // Intervalo de tempo para a simulação (segundos)
+    "theta1": 1.5708, // Ângulo inicial do primeiro pêndulo (radianos, π/2)
+    "theta2": 1.5708, // Ângulo inicial do segundo pêndulo (radianos, π/2)
+    "omega1": 0,     // Velocidade angular inicial do primeiro pêndulo (rad/s)
+    "omega2": 0      // Velocidade angular inicial do segundo pêndulo (rad/s)
+}
